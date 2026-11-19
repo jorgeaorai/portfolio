@@ -1,0 +1,584 @@
+{
+  "stage": {
+    "title": "JORGE AOR",
+    "subtitle": "PORTFÓLIO",
+    "showTextOverlay": true,
+    "mediaType": "video",
+    "url": ""
+  },
+  "galleries": [
+    {
+      "id": "gallery-1",
+      "title": "Clin Summit 2025",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "url": "/uploads/1795035082044_clin_summit_26_-_recall_2.mov",
+        "mediaType": "video"
+      },
+      "leftFrames": [
+        {
+          "id": "g-1-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-1-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-1-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-1-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-1-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-1-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-2",
+      "title": "Clin - Identidade visual 2025",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-2-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-2-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-2-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-2-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-2-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-2-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-3",
+      "title": "Agiben - Site oficial",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-3-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-3-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-3-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-3-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-3-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-3-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-4",
+      "title": "Clin - Site oficial",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-4-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-4-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-4-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-4-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-4-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-4-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-5",
+      "title": "Escola SOAP | Home concept",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-5-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-5-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-5-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-5-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-5-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-5-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-6",
+      "title": "InstaLOD | 99design contest concept",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-6-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-6-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-6-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-6-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-6-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-6-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-7",
+      "title": "Vouloir Salon",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-7-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-7-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-7-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-7-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-7-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-7-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-8",
+      "title": "Buffet Arcádia | Planejamento 2023",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-8-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-8-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-8-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-8-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-8-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-8-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-9",
+      "title": "Prefeitura de Bezerros",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-9-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-9-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-9-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-9-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-9-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-9-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "gallery-10",
+      "title": "GF Trainer | 10 Anos",
+      "subtitle": "GALERIA DE PROJETO",
+      "backWall": {
+        "mediaType": "video",
+        "url": ""
+      },
+      "leftFrames": [
+        {
+          "id": "g-10-left-1",
+          "title": "Quadro Esquerdo 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-10-left-2",
+          "title": "Quadro Esquerdo 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-10-left-3",
+          "title": "Quadro Esquerdo 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ],
+      "rightFrames": [
+        {
+          "id": "g-10-right-1",
+          "title": "Quadro Direito 1",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-10-right-2",
+          "title": "Quadro Direito 2",
+          "mediaType": "image",
+          "url": ""
+        },
+        {
+          "id": "g-10-right-3",
+          "title": "Quadro Direito 3",
+          "mediaType": "image",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "plazaFrames": [
+    {
+      "id": "plaza-left-1",
+      "side": "left",
+      "title": "Painel Praça Esquerda 1",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": -20
+    },
+    {
+      "id": "plaza-left-2",
+      "side": "left",
+      "title": "Painel Praça Esquerda 2",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": -10
+    },
+    {
+      "id": "plaza-left-3",
+      "side": "left",
+      "title": "Painel Praça Esquerda 3",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": 0
+    },
+    {
+      "id": "plaza-left-4",
+      "side": "left",
+      "title": "Painel Praça Esquerda 4",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": 10
+    },
+    {
+      "id": "plaza-left-5",
+      "side": "left",
+      "title": "Painel Praça Esquerda 5",
+      "mediaType": "image",
+      "url": "/uploads/1795089303498_clin.png",
+      "zOffset": 20
+    },
+    {
+      "id": "plaza-right-1",
+      "side": "right",
+      "title": "Painel Praça Direita 1",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": -20
+    },
+    {
+      "id": "plaza-right-2",
+      "side": "right",
+      "title": "Painel Praça Direita 2",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": -10
+    },
+    {
+      "id": "plaza-right-3",
+      "side": "right",
+      "title": "Painel Praça Direita 3",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": 0
+    },
+    {
+      "id": "plaza-right-4",
+      "side": "right",
+      "title": "Painel Praça Direita 4",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": 10
+    },
+    {
+      "id": "plaza-right-5",
+      "side": "right",
+      "title": "Painel Praça Direita 5",
+      "mediaType": "image",
+      "url": "",
+      "zOffset": 20
+    }
+  ],
+  "updatedAt": "2026-11-19T11:55:07.861Z"
+}
